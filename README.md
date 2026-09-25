@@ -1,6 +1,6 @@
 MatMatcha
 
-MatMatcha är en smart webbapplikation framtagen som ett examensarbete. Målet är att hjälpa hushåll att spara tid och pengar genom att automatiskt matcha veckans aktuella butikserbjudanden (från bl.a. Willys och ICA) med skalbara recept och skräddarsydda inköpslistor.
+MatMatcha är en webbapplikation framtagen som ett examensarbete. Målet är att hjälpa hushåll att spara tid och pengar genom att automatiskt matcha veckans aktuella butikserbjudanden (från bl.a. Willys och ICA) med skalbara recept och skräddarsydda inköpslistor.
 
 Projektet är uppdelat i två delar:
 
