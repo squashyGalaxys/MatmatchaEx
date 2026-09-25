@@ -32,7 +32,7 @@ public class MealPlannerController : ControllerBase
             selectedRecipes.AddRange(extraRecipes);
         }
 
-        // 2. Skapa sammanslagen och skalad inköpslista baserat på antal personer
+        // 2. Skapa inköpslista baserat på antal personer
         var shoppingList = GenerateShoppingList(selectedRecipes, request.PeopleCount);
 
         return Ok(new
